@@ -39,7 +39,7 @@ nav ul li a {
   display: block;
   padding: 5px;
   margin: 0 3px;
-  font-size: 0.4rem;
+  font-size: 0.6rem;
   text-decoration: none;
   color: #fff;
   border-radius: 1.5px;
@@ -64,13 +64,13 @@ section {
 }
 
 section h2 {
-  font-size: 0.4rem;
+  font-size: 0.6rem;
   margin-bottom: 10px;
   color: #212121;
 }
 
 section h3 {
-  font-size: 0.4rem;
+  font-size: 0.6rem;
   margin-bottom: 10px;
   color: #4a4a4a;
 }
@@ -190,7 +190,7 @@ section {
 }
 
 section h2 {
-  font-size: 0.4rem;
+  font-size: 0.6rem;
   margin-bottom: 10px;
 }
 
@@ -224,7 +224,7 @@ footer {
   }
 
   section h2 {
-    font-size: 0.4rem;
+    font-size: 0.6rem;
   }
 }
 
@@ -245,7 +245,7 @@ footer {
   }
 
   section h2 {
-    font-size: 0.4rem;
+    font-size: 0.6rem;
   }
 
   section ul {
